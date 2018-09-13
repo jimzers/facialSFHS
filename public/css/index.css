@@ -1,0 +1,107 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    color: black;
+    /* background-color: #00ad77; */
+}
+h1{
+    margin: 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+a:hover{
+    color: black;
+}
+.green{background-color: #00ad77;}
+.logo{ width: 40px;
+    padding-right: 20px;}
+.title{display: inline;
+    padding-right: 20px;}
+.header{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 10px;
+    background-color: #17a377;
+    color: white;
+}
+.label{
+    padding-right: 10px;
+    font-weight: 600;
+}
+
+.pad{
+    margin-bottom: 20px;
+}
+.form{
+    padding: 20px;
+}
+.form-title{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.form.match{
+    color: white;
+    background-color: #00ad77;
+
+}
+.ninja{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+}
+.ninja table{
+    color: black;
+    padding-bottom: 20px;
+}
+.details{
+    padding: 10px;
+    background-color: white;
+    width: 100%;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+
+}
+.buttons a{
+    margin: 0;
+}
+.btn{
+    background-color: #0d4600;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+    margin-right: 10px;
+
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: black;
+}
+.btn.main{
+    padding: 12px;
+    font-size: 1.1em;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.btn.swap {
+    background-color: #238277;
+}
+
+.btn.buy {
+    background-color: #238277;
+}
+.codes{
+    max-width: 100%;
+    text-align: center;
+}
