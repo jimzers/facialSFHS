@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fitswap-1532838755545",
+  "private_key_id": "2c80c95f2eaba8925332c8d1f92b39eee9211351",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCSersMZ9eMNud\n1ICv2PtgbD2yE1GBzn5nj4LyHQdp0Nm8ukCn98KPgYPddEjlvrMtI2TsxvBOUy2K\ng3cJEs5viA9jQ6qJNjC+XS0/t2PJ+52ZyS+k7DhnQXWgBvyYJ1OIv6iT1e/CGyQ8\nJ9vjHc20DnsOaydluHNcvOSd8iIgTqqJqB0H784L/3CEQhc8NNpxFm3g0racs/Rd\nXKK7Uk/7uFUrEBCCKY0DKakE+/SCqnAXk3+n/AeRX0TFGMqCzm+5a8NT68vhhxrN\neTIXWNYNSbejBhJsrQvw5uxGIuKbgp96gXnoHopZGniiWFHg3TShljr03GIjj7Rv\nBUkUT66RAgMBAAECggEABjuDJpxN5jS4qs/bVjsLD092KDHXGDCnCno0URybowWX\n2V0yUiEQM9AU5bZn/YcBSX836tivThx8UZ0S7koeMBmopP5/XzoUZv95i3B019n8\ngBUrRmp+wbMy+RUYSy/ve3TGMd3cRYtxaxcFPUVrlpr2vdAPOihfDQF+phhKPlFf\nHBCCbZ8QMYfEZVV77WdwDEEGMees5rN9jNfdrB3y+Fe2rcOb+AkcXBDbQ8DnlIvT\nJponVFuyeC7uK5cEgziven7QTKH2UOITjQiZryanAYH4+Xr42L5OHQ303L9pOboQ\nHH892Ot8O7fX5SqquKF0N2h+Pifk7o0TCBvGyqldJQKBgQDfp2WJAmXuLCJ8QSa1\nDQsVdaQ44ZTG+UjjU157ftB8m4XeAb46+gfdtLdLCXfDNVvSGDyp2cC/S+U+0bJE\nJ2amplMjkMfJIUfpHDK/t8RId//Qwd95dvD8M+O/X0MLoXe21GIGvzvNLnvPTKAm\nmDEVUWHN7XpBc94BWgicl5OXFQKBgQDeY0zY0IWR4v2MuTQvIxOWST5+5xqPMskL\n/0P2/coXC2EWeWnoU96Te3DKrM99D+K3xzEy+chr/rtQcPLfy1GJvaSonVIowN5q\np4usNJApzJMwG7T8OoDTHkSN6i09sd8pK80HyEJ8+AYNYX9Z0gQ2EPno9azXI7Jk\n3I1wsU2YjQKBgBE1vV9smtFX/hNXpBXcehTdp5Rk72DcP9qWSLfyCzL7eLKbqbq6\nEK7jwBL7GIch7P3etZRQWD+gJHTQCAqsiX6bX9xlwKnecL0kWVddWbJF4Z57vKmJ\nGIQfrg/E0dDsTNz5vM1OG9jvEcHi4JP3tBcy2vbQpk6xDs1F01HRbB79AoGAdAEE\ncwzCwAjSDfgF+pinfPuT+AqBVjU9nl53i31zT3YGHP0Ue7ZUIkZ/3ZkrWqdQsmDb\njyWwoHTuLNXeO1MJo3ojTDlURCHnY2cmepuon8Uw+iVZ0UCLNpVRWV3QX6BLMmTA\nvNB/rkSKk6xKDAZ7X+CXHCgbEtZyFh7eQOyb93kCgYB6eNXu03VzFNhSTgbKc8Xf\ngcCs3xA0MnlJTXeLegMkN5XPfaKLaG3MgYfcIiI9W0CIH8pFjkUXrLHxbiP3mdru\nqO8xzw+TRAlcfXFdOiiWtUDQp2m0Zz4kF0GU2UOY7Wyj6lrOI7psm32Uu+FcQ4ac\nSiGcqH7Y1LYOk4zm+aswTw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "facialrecognition@fitswap-1532838755545.iam.gserviceaccount.com",
+  "client_id": "118104480026795789113",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/facialrecognition%40fitswap-1532838755545.iam.gserviceaccount.com"
+}
