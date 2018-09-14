@@ -3,7 +3,7 @@ const express = require('express'),
     routes = express.Router();
 
 // home route
-routes.get("/analysis", (req, res) => {
+routes.get("/analyze", (req, res) => {
     res.render('analysis');
 });
 
