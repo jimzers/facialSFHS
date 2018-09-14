@@ -1,2 +1,10 @@
+
 const express = require('express'),
-    router = express.Router();
+    routes = express.Router();
+
+// home route
+routes.get("/analysis", (req, res) => {
+    res.render('analysis');
+});
+
+module.exports = routes;

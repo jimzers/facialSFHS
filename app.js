@@ -1,11 +1,15 @@
 
 
-bodyParser = require('body-parser');
-express = require('express');
+const bodyParser = require('body-parser'),
+express = require('express'),
 path = require('path');
-
+const app = express();
 // init app
-app = express();
+app.use(function (req, res, next) {
+    console.log('Time:', Date.now());
+    next()
+});
+
 
 
 // View Engine
@@ -26,8 +30,8 @@ app.use(function(req, res, next){
 });
 
 // Include routes
-const indexRoutes = require("./routes/index");
-app.use(indexRoutes);
+const routes = require("./routes");
+app.use('/', routes);
 
 /** SERVER LISTENER **/
 app.listen(process.env.PORT || 3000, process.env.IP, function(){
